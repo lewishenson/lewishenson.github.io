@@ -1,5 +1,5 @@
 html {
-    background: url(background.jpg) no-repeat center center fixed; /* Joe Newman - http://www.cosmicsmudge.com/ */
+    background: #000066 url(background.jpg) no-repeat center center fixed; /* Joe Newman - http://www.cosmicsmudge.com/ */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
